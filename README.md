@@ -87,6 +87,9 @@ Designed to efficiently capture operational soccer match data including:
 - Goal events
 - Penalty shootouts
 
+<img width="428" height="423" alt="Screenshot 2026-07-15 at 3 10 21 PM" src="https://github.com/user-attachments/assets/1ba9e421-b29d-4eb6-98bf-fefc69e7e63f" />
+
+
 ---
 
 ### Dimensional Model
@@ -116,6 +119,9 @@ Measures include:
 - DIM_LOCATION
 
 This design enables fast aggregations and efficient business intelligence reporting.
+
+<img width="591" height="439" alt="Screenshot 2026-07-15 at 3 10 51 PM" src="https://github.com/user-attachments/assets/47802366-69f4-45c7-b791-359be0164bbe" />
+
 
 ---
 
