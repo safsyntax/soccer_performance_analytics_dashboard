@@ -1,6 +1,6 @@
 # ⚽ International Soccer Team Performance Analytics Data Warehouse
 
-A modern data warehousing and business intelligence project that transforms over a century of international soccer match data into an analytical platform for evaluating team performance, tournament outcomes, and competitive trends.
+A  data warehousing and business intelligence project that transforms international soccer match data into an analytical platform for evaluating team performance, tournament outcomes, and competitive trends.
 
 This project combines **Python, SQL, dimensional modeling, and Power BI** to build an end-to-end analytics solution that supports data-driven decision making for coaches, analysts, and sports organizations.
 
@@ -33,7 +33,6 @@ This project develops a centralized data warehouse using Kimball dimensional mod
 
 **Coverage**
 
-- Original data: 1872–2026
 - Analysis period: **2011–2025**
 
 **Data Includes**
@@ -152,7 +151,7 @@ Key analyses included:
 
 ## 📊 Interactive Dashboard
 
-Power BI dashboards were created to support exploratory analysis and executive reporting.
+A Power BI dashboard was created to support exploratory analysis and executive reporting.
 
 ### Dashboard Features
 
@@ -300,16 +299,8 @@ Potential enhancements include:
 
 ## 📷 Sample Dashboard
 
-*(Add screenshots of your Power BI dashboards here.)*
+<img width="1274" height="714" alt="Viz5_TeamPerformanceDashboard" src="https://github.com/user-attachments/assets/775ae139-2ca7-48f3-853f-93a944449888" />
 
-Suggested screenshots:
-
-- Team Performance Dashboard
-- Team Win Rates Over Time
-- Wins by Tournament
-- Home vs Away Wins
-- Goal Difference Distribution
-- Star Schema Diagram
 
 ---
 
@@ -319,6 +310,7 @@ Suggested screenshots:
 Master of Science – Artificial Intelligence & Business Analytics
 
 **Gavrie Grant**
+Master of Science Candidate – Artificial Intelligence & Business Analytics
 
 ---
 
@@ -336,13 +328,9 @@ https://www.kaggle.com/datasets/martj42/international-football-results-from-1872
 
 ✔ SQL Data Warehouse Development
 
-✔ Oracle SQL
-
 ✔ Kimball Star Schema
 
-✔ Power BI Dashboarding
-
-✔ Business Intelligence Reporting
+✔ Power BI Dashboard
 
 ✔ Sports Analytics
 
