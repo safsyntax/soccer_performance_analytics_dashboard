@@ -309,8 +309,7 @@ Potential enhancements include:
 **Safiya Joseph**  
 Master of Science – Artificial Intelligence & Business Analytics
 
-**Gavrie Grant**
-
+**Gavrie Grant**  
 Master of Science Candidate – Artificial Intelligence & Business Analytics
 
 ---
