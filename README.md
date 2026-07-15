@@ -310,6 +310,7 @@ Potential enhancements include:
 Master of Science – Artificial Intelligence & Business Analytics
 
 **Gavrie Grant**
+
 Master of Science Candidate – Artificial Intelligence & Business Analytics
 
 ---
